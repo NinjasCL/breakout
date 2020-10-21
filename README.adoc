@@ -2,6 +2,18 @@
 
 # Breakout
 A simple breakout game made in _Wren_ and TIC-80
-image:breakout.gif{ext-relative}[Breakout]
+
+image:breakout.gif[Breakout]
 
 Based on https://github.com/digitsensitive/tic-80-tutorials[TIC-80 Tutorials]
+
+## 🤩 Credits
+
+++++
+<p>
+  Made with <i class="fa fa-heart">&#9829;</i> by
+  <a href="https://ninjas.cl">
+    Ninjas.cl
+  </a>.
+</p>
+++++
