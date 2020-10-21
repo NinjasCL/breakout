@@ -1,9 +1,12 @@
 :ext-relative:
 
-# Breakout
-A simple breakout game made in _Wren_ and TIC-80
+# https://tic80.com/play?cart=1463[Breakout]
+
+A simple breakout game made in https://wren.io/[Wren] and https://tic80.com[TIC-80]
 
 image:breakout.gif[Breakout]
+
+Play: https://tic80.com/play?cart=1463[Breakout]
 
 Based on https://github.com/digitsensitive/tic-80-tutorials[TIC-80 Tutorials]
 
