@@ -2,13 +2,16 @@
 
 # https://tic80.com/play?cart=1463[Breakout]
 
-A simple breakout game made in https://wren.io/[Wren] and https://tic80.com[TIC-80]
+A simple breakout game made in https://wren.io/[Wren], https://tic80.com[TIC-80] and https://domeengine.com[Dome Engine].
 
 image:breakout.gif[Breakout]
 
 Play: https://tic80.com/play?cart=1463[Breakout]
 
 Based on https://github.com/digitsensitive/tic-80-tutorials[TIC-80 Tutorials]
+
+- link:breakout.wren{ext-relative}[TIC-80 Version]
+- link:breakout.dome.wren{ext-relative}[DOME Engine Version]
 
 ## 🤩 Credits
 
